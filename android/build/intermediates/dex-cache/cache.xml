@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_88952080b7c7e6d0b46e68f76879cbc0ed18a8b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_e22f5ed9d0286a9d387476778ccfeeff0faeb05c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\liveTranslate\react-native-camera\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9d5c316e13caccc36468da7a594ddd466734fc02">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\liveTranslate-react-native-camera-unspecified_95c8183e92ef01a14b72df54b4bd4f7eacf3e54b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_cf6115ea6c41b3d08de85f854598b9c7b614b594.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_1b274185d71d48b9ffe81ac6a627cb42d61fe9be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_5b11d07578824041b153ac9f3de806ae3200a437.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_e5103be2cfc900e31b2054a5bfed4aa3aac78d3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_75fb63391a082184cd0c503c75bd233dc866a4f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_bf36a7fecda8e4943c51224efee29461794c4570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_0cc5bc57f5488766f7327ef725fe2cb55f1ab36b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_5fded42efacd0b17c6fe8dfc3693c9559005d475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_26be1e70da2f8c02172e221d7486fa965246d3b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_e128e34645bfb02f19fd3640f4dc3f828e8a6301.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.46.4_907ccfa5c453202232dbd6438a0ca27af444a75e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_1a39903963959973e40b126145af5f3d236841d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\core-3.2.1_f15fe2b0f7c9dfe2d6841d1d1487c31d77fdccc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_4f84c64c2ad848ed6c20283b0e70e5e7197b6296.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_daf5cc87ba5051aea12eac1573168fb77d878f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_2ef47d653f40ccd78402ee2acef2bc73774ac9a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.drewnoakes\metadata-extractor\2.9.1\53fdf22be10c9d426ec63431c7342895bc642261\metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\metadata-extractor-2.9.1_8d912ea7d869d5892305d96ac8878c7b0e29e750.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_47345112e421de9edf03df1353ce614fae3beb7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\liveTranslate\react-native-sensors\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c831db2220e58fd0730e002bdee6052edb368a7b">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\liveTranslate-react-native-sensors-unspecified_b23ea97b9fd93b091c6467476a5a68cc5bbde53d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_78bcb18c19bf4eb2300bd1134be3d9592a164a3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_3ff74cfaad84310d19cee957ca938cc7c8adaf46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\reactapps\liveTranslate\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_db922ecf162acd00711b9edf93da0846cd672b7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joe\.gradle\caches\modules-2\files-2.1\com.adobe.xmp\xmpcore\5.1.2\55615fa2582424e38705487d1d3969af8554f637\xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="C:\reactapps\liveTranslate\android\app\build\intermediates\pre-dexed\debug\xmpcore-5.1.2_1970423991893816018963771130306d2d971dcc.jar" />
+    </item>
+
+</items>
